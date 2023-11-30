@@ -1,0 +1,65 @@
+html {
+    background-image: url(assets/bg/blue.gif)
+}
+* {
+    color: white;
+}
+.maincontent {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.flex-container {
+  display: flex;
+}
+
+.flex-container > div {
+  margin: 0px;
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.sidebar {
+    background-color: aliceblue;
+}
+.mb-1 {
+    margin-bottom: 0.5rem;
+}
+.adbar {
+    margin-top: 2rem;
+}
+.navbar {
+    margin-bottom: 1rem;
+}
+.navitem {
+    display: inline-block;
+    margin: auto; 
+    text-align: center;
+    width: 150px;
+}
+.navgif {
+    width: 100px;
+}
+h1 {
+    margin-top: 0rem;
+}
+h2 {
+    margin: 0rem;
+}
+h5 {
+    color: gray;
+    font-weight: 100;
+    margin-top: 0.5rem;
+}
+p {
+    margin: 0rem;
+}
+a {
+    color: blue;
+}
+img {
+    padding-right: 0.5rem;
+    padding-bottom: 1rem;
+}
+audio {
+    padding-bottom: 0.7rem;
+}
